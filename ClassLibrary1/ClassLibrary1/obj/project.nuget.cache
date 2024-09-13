@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "3nHUiycw2l3X9k5bL5xTCTljA1aos1jNhGRqF3V93Jv+4QvIq7lAP1GZ8iemGvPBDSAzSvZeJXhdNegk1jEhgg==",
+  "success": true,
+  "projectFilePath": "E:\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\opencv\\2.4.11\\opencv.2.4.11.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\opencvsharp4\\4.10.0.20240616\\opencvsharp4.4.10.0.20240616.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\opencvsharp4.extensions\\4.10.0.20240616\\opencvsharp4.extensions.4.10.0.20240616.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\opencvsharp4.runtime.win\\4.10.0.20240616\\opencvsharp4.runtime.win.4.10.0.20240616.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\zbar\\1.0.2\\zbar.1.0.2.nupkg.sha512",
+    "C:\\Users\\Thanh Luan\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}
